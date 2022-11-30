@@ -1,0 +1,23 @@
+# ninja log v5
+1	162	6899678228366037	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+17	165	6899678228426987	CMakeFiles/exemploProdutos.dir/produto.c.obj	712f551890b4712f
+165	364	6899678230370761	exemploProdutos.exe	9f25e2e204d10362
+3	141	6899681116018688	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+24	152	6899681116115039	CMakeFiles/exemploProdutos.dir/produto.c.obj	712f551890b4712f
+153	345	6899681118012593	exemploProdutos.exe	9f25e2e204d10362
+4	211	6899691172155640	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+212	444	6899691174485638	exemploProdutos.exe	9f25e2e204d10362
+3	146	6899698041059075	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+21	151	6899698041104456	CMakeFiles/exemploProdutos.dir/produto.c.obj	712f551890b4712f
+151	318	6899698042727153	exemploProdutos.exe	9f25e2e204d10362
+3	161	6899701932771357	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+22	166	6899701932780669	CMakeFiles/exemploProdutos.dir/produto.c.obj	712f551890b4712f
+167	346	6899701934601576	exemploProdutos.exe	9f25e2e204d10362
+2	118	6899702251483263	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+119	263	6899702252888775	exemploProdutos.exe	9f25e2e204d10362
+10	367	6905678522693793	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+29	369	6905678522693793	CMakeFiles/exemploProdutos.dir/produto.c.obj	712f551890b4712f
+369	910	6905678528071902	exemploProdutos.exe	9f25e2e204d10362
+3	188	6905700655239539	CMakeFiles/exemploProdutos.dir/gerenciar_produto.c.obj	1f83778bc0494544
+24	193	6905700655274831	CMakeFiles/exemploProdutos.dir/produto.c.obj	712f551890b4712f
+193	424	6905700657516885	exemploProdutos.exe	9f25e2e204d10362

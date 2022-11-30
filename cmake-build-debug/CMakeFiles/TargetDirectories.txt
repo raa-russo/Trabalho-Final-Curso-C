@@ -1,0 +1,3 @@
+C:/Users/Windows/Documents/trab.final maromo/aula11__1211/conta/cmake-build-debug/CMakeFiles/exemploProdutos.dir
+C:/Users/Windows/Documents/trab.final maromo/aula11__1211/conta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Windows/Documents/trab.final maromo/aula11__1211/conta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
